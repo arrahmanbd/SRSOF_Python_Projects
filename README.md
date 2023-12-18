@@ -18,6 +18,7 @@ Team memebers information will be found in their project folders credit.txt file
 
 ## Project Stracture
 SRSOF_Python_Project/
+
 ├── Batch 1/
 │   ├── crud
 │   └── others
