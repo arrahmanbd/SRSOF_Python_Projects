@@ -1,13 +1,11 @@
 
 # SRSOF Final Projects
 
-This README file provides information about the final project submitted by Python Trainee as part of the SRSOF Python Programming Course Requirements Specification.
-
+This README file offers information regarding the final project submission by a Python Trainee as part of the SRSOF Python Programming Course Requirements Specification.
 
 ## How to use
 
-Please note that there are some projects requires some external module such as, pyfiglet. Make sure to install it before running the project:
-
+Please be aware that some projects may require external modules, such as pyfiglet. Ensure its installation before running the project:
 ```bash
 # Install pyfiglet
 pip install pyfiglet
