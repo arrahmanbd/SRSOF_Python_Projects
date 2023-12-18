@@ -1,7 +1,7 @@
 
 # SRSOF Final Projects
 
-This README file offers information regarding the final project submission by a Python Trainee as part of the SRSOF Python Programming Course Requirements Specification.
+This README file offers information regarding the final project submission by Python Trainee as part of the SRSOF Python Programming Course Requirements Specification.
 
 ## How to use
 
