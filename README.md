@@ -17,14 +17,22 @@ pip install pyfiglet
 Team memebers information will be found in their project folders credit.txt file.
 
 ## Project Stracture
-SRSOF_Python_Project/
-
-├── Batch 1/
-│   ├── crud
-│   └── others
-└── Batch 2/
-    ├── crud
-    └── others
+Batch 1/
+┣ crud/
+┃ ┣ __pycache__/
+┃ ┃ ┣ act.cpython-310.pyc
+┃ ┃ ┣ act2.cpython-312.pyc
+┃ ┃ ┣ db.cpython-310.pyc
+┃ ┃ ┗ db2.cpython-312.pyc
+┃ ┣ Screenshot 2023-12-18 143622.png
+┃ ┣ act.py
+┃ ┣ credits.txt
+┃ ┣ db.py
+┃ ┗ main.py
+┗ project_guess/
+  ┣ Number Guessing.png
+  ┣ Number Guessing.py
+  ┗ Number Guessing.txt
 
 ## Badges
 
